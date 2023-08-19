@@ -9,8 +9,13 @@ h1, h2{
      align-items: center;
      font-weight: 900;
 }
+h1, span{
+     color: var(--clr);
+     font-size: 34px;
+     font-weight: bold;
+}
 body{
-     background-color:bisque;
+     background-color:burlywood;
 }
 .container{
      display: grid;
